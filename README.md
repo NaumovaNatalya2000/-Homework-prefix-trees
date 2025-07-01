@@ -4,3 +4,23 @@
 То есть, необходимо построить дерево, которое будет словарем, а затем выполнить проверку и предложить подходящие варианты слов по введенной части.
 Дополнение можно реализовываться как по нажатию какой-либо клавиши, так и любым другим способом.
 После нажатия программа не должна завершаться и ждать нового ввода от пользователя.
+## 2. Описание main.cpp
++ void safe_call(std::function <void()> func) - функция для перехвата исключений
++ void clearScreen() - функция для чистки консоли
++ void pause() - функция паузы консоли
+## 3. Описание класса Trie
++ Переменная TrieNode* root - для корневого узла
++ struct TrieNode - структура узла дерева
++ Trie() - конструктор по умолчанию, создает пустое дерево с корневым узлом
++ TrieNode* getNewNode() - создаёт и возвращает новый узел Trie с инициализированными детьми и флагом конца слова
++ void insert(std::string key) - обертка добавление узла
++ void insert(TrieNode* root, std::string key) - основная добавление узла
++ void remove(std::string key) - обертка удаление узла
++ TrieNode* remove(TrieNode* root, std::string key, int depth = 0) - основная удаление узла
++ bool search(std::string key) - обертка поиск узла
++ bool search(TrieNode* root, std::string key) - основная поиск узла
++ int countWord() - обертка количество слов
++ int countWord(TrieNode* root) - основная количество слов
++ void searchPref(const std::string& key) - обертка поиск слов по префиксу
++ void searchPref(TrieNode* currentNode, std::string buffer) - основная поиск слов по префиксу
++ bool isEmpty(TrieNode* root) - проверка пусто ли дерево и является ли узел листом
