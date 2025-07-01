@@ -118,7 +118,6 @@ int Trie::countWord()
 {
    return countWord(root);
 }
-
 int Trie::countWord(TrieNode* root)
 {
    TrieNode* node = root;

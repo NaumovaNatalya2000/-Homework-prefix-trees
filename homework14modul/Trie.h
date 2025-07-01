@@ -10,6 +10,7 @@ private:
 		TrieNode* children[ALPHABET_SIZE];
 		bool isEndOfWord; //true - если конец слова
 	};
+
 public:
 	//конструктор по умолчанию
 	Trie();
@@ -31,7 +32,7 @@ public:
 
 private:
 
-	TrieNode* root;
+	TrieNode* root; //корень
 
 	//создание ноды
 	TrieNode* getNewNode();

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|solutionrelative:homework14modul\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\Trie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|solutionrelative:homework14modul\\Trie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\Trie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|solutionrelative:homework14modul\\Trie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\Trie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|solutionrelative:homework14modul\\Trie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F0BC57-05B4-4710-8BA6-15E1CC30DBAA}|homework14modul\\homework14modul.vcxproj|solutionrelative:homework14modul\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\main.cpp",
               "RelativeDocumentMoniker": "homework14modul\\main.cpp",
               "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\main.cpp",
               "RelativeToolTip": "homework14modul\\main.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-30T14:05:22.862Z",
               "EditorCaption": ""
@@ -49,20 +49,20 @@
               "RelativeDocumentMoniker": "homework14modul\\Trie.cpp",
               "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\Trie.cpp",
               "RelativeToolTip": "homework14modul\\Trie.cpp",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAALEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-30T14:00:17.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Trie.h",
               "DocumentMoniker": "C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\Trie.h",
               "RelativeDocumentMoniker": "homework14modul\\Trie.h",
               "ToolTip": "C:\\Users\\ponchik\\Desktop\\skillfactory\\homework\\homework14modul\\homework14modul\\Trie.h",
               "RelativeToolTip": "homework14modul\\Trie.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-30T13:59:14.203Z",
               "EditorCaption": ""
